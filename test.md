@@ -1,6 +1,6 @@
 # Markdown CheatSheet
 # Heading one
- By removing hash sign H2 is text
+ By removing hash sign H2 becomes a text
 ### H3
 #### H4
 ##### H5
