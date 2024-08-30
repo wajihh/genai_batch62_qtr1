@@ -1,5 +1,5 @@
 # Markdown CheatSheet
-# Hwading one
+# Heading one
  By removing hash sign H2 is text
 ### H3
 #### H4
